@@ -4,7 +4,7 @@
 
 
 ## Overview
-This project provides a data-driven analysis of football team performances over a season. The dataset includes details on goals scored, goals conceded, wins, losses, draws, points, goal difference and rank. The analysis aims to uncover patterns and insights using the CRISP-DM methodology. Visualizations are created to highlight key insights, which are deployed on social media platforms like Twitter, Facebook and Instagram.
+This project provides a data-driven analysis of football team performances over a season. The dataset includes details on goals scored, goals conceded, wins, losses, draws, points, goal difference and rank. The analysis aims to uncover patterns and insights. Visualizations are created to highlight key insights, which are deployed on social media platforms like Twitter, Facebook and Instagram.
 
 ## Dataset
 The dataset contains the following columns:
